@@ -43,5 +43,12 @@
 <br/><br/>
 
 <p align="center">
+ 🧑🏻‍💻 Dev. Blog 🧑🏻‍💻<br/>
+ https://hotsse.github.io
+</p>
+
+<br/><br/>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hotsse&theme=tokyonight"/>
 </p>
