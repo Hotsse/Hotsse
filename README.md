@@ -44,7 +44,7 @@
 
 <p align="center">
  🧑🏻‍💻 Dev. Blog 🧑🏻‍💻<br/>
- https://hotsse.github.io
+ <a href="https://hotsse.github.io" target="_blank">https://hotsse.github.io</a>
 </p>
 
 <br/><br/>
